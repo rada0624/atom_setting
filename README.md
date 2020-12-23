@@ -27,7 +27,7 @@ $ apm install sync-settings
 https://gist.github.com/ にアクセスし、 バックアップ用のGistを作成する。
 タイトル、本文は何でもよい。  
 作成が完了したら、URLから `Gist ID` を取得する。URL規則は以下の通り。
-```
+```
 https://gist.github.com/{GitHub ID}/{Gist ID}
 ```
 
